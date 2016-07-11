@@ -1,1 +1,1 @@
-alert('hello from ja')
+alert('hello from jav')
