@@ -1,1 +1,1 @@
-alert('hello from javascr')
+alert('hello from javascri')
