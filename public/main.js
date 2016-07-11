@@ -1,1 +1,1 @@
-alert('hello from javascrip')
+alert('hello from javascript')
