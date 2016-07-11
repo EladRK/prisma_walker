@@ -1,1 +1,1 @@
-alert('hello fro')
+alert('hello from')
